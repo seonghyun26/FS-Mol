@@ -349,7 +349,9 @@ MigrationBackup/
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
 
-datasets/fs-mol
-datasets/fsmol.tar
+fs-mol/
+fsmol.tar
 
 outputs/
+
+*.code-workspace
