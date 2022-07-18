@@ -1,4 +1,4 @@
-name: fsmol
+name: sh_fsmol
 channels:
   - rdkit
   - defaults
